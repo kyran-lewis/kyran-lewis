@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Random Note Generator](https://github.com/kyran-lewis/random-musical-note-generator)
 
-- 🌱 I’m currently learning **React, TypeScript**
+- 🌱 I’m currently learning **TypeScript**
 
 - 📫 How to reach me **kyran.lewis14@gmail.com**
 
