@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kyran Lewis</h1>
 <h3 align="center">A software developer from the UK</h3>
 
-- 🔭 I’m currently working on [Random Note Generator](https://github.com/kyran-lewis/random-musical-note-generator)
+- 🔭 I’m currently working on [Personal Website](https://github.com/kyran-lewis/personal-website)
 
 - 🌱 I’m currently learning **Tailwind CSS**
 
