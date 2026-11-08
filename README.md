@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kyran Lewis</h1>
 <h3 align="center">A software developer from the UK</h3>
 
-- 🔭 I’m currently working on [Leed Bin Day App (Binny)](https://github.com/kyran-lewis/leeds-bin-days)
+- 🔭 I’m currently working on [Leeds Bin Day App (Binny)](https://github.com/kyran-lewis/leeds-bin-days)
 
 - 🌱 I’m currently learning **Tailwind CSS**
 
